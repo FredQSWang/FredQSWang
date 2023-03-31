@@ -6,6 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m [@FredQSWang](https://github.com/FredQSWang)
 
+> 注意：
+
 - 👀 I’m interested in code
 - 🌱 I’m currently learning [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - 📫 Reach me for email [fred_wangquansen@qq.com](mailto:fred_wangquansen@qq.com) or [fred.wangquansen@gmail.com](mailto:fred.wangquansen@gmail.com)
