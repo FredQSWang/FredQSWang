@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ### GitHub stats
 
-[![FredQSWang's GitHub stats](https://github-redme-stats.vercel.app/api?username=FredQSWang&show_icons=true&theme=dark)](https://github.com/FredQSWang)
+[![FredQSWang's GitHub stats](https://github-redme-stats.vercel.app/api?username=FredQSWang&show_icons=true&theme=tokyonight)](https://github.com/FredQSWang)
 
 
